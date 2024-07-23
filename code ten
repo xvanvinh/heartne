@@ -31,7 +31,7 @@
 </HEAD>
 
 <BODY>
-  <h1>Khoa Yeu Han</h1>
+  <h1>Nhap Ten</h1>
 
     <canvas id="pinkboard"></canvas>
     <script>
